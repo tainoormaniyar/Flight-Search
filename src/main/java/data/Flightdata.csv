@@ -1,0 +1,6 @@
+airline,origin, destination, price
+Air India, BOM, PNQ, 2000
+Air India, PNQ, BOM, 2200
+Indigo, PNQ, BOM, 2000
+Air India, PNQ, Delhi, 5000
+Indigo, PNQ, Delhi, 4500
